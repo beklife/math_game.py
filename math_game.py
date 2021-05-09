@@ -23,8 +23,8 @@ def start_game():
         start_game()
 
 def addition():
-    num1 = randint(0, 9)
-    num2 = randint(0, 9)
+    num1 = randint(0, 100)
+    num2 = randint(0, 100)
 
     print(f"What is {num1} + {num2} ?\n")
 
@@ -39,8 +39,8 @@ def addition():
 
 
 def substraction():
-    num1 = randint(0, 9)
-    num2 = randint(0, 9)
+    num1 = randint(0, 100)
+    num2 = randint(0, 100)
 
     print(f"What is {num1} - {num2} ?\n")
 
@@ -54,8 +54,8 @@ def substraction():
         start_game()
 
 def multiplication():
-    num1 = randint(0, 9)
-    num2 = randint(0, 9)
+    num1 = randint(0, 100)
+    num2 = randint(0, 100)
 
     print(f"What is {num1} * {num2} ?\n")
 

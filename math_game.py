@@ -4,7 +4,7 @@ def start_game():
     print("\nWelcome to Math Practice")
     print("Here you can practice your addition, subtraction and multiplication skills.")
     print("Which would you like to do?")
-    print("A - is addition")
+    print("A - addition")
     print("B - subtraction")
     print("C - multiplication")
     print("D - Exit Game\n")
